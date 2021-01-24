@@ -39,7 +39,7 @@ communicate with a professional medical practitioner.
 2. _Sayantani Das_, for her invaluable inputs on the symptoms and cases and 
 	for satisfying the curiosity of the Biology lover in me.
 3. _Meghna Dutta_, for being the second tester after me and helping me debug.
-	She is available @ https://github.com/Meghna180401
+	She is available @ (https://github.com/Meghna180401)
 4. _Atrik Ray_, that's me, for patiently reading through many, many lines of 
 	un-indented skeletal code, making meaning out of it, and changing the
 	functions to enhance portability.
@@ -70,7 +70,7 @@ versions which instruct the Windows console, namely `<system("color _attr_")>`. 
 Importantly, the UDF `<gotoxy(const WORD, const WORD)>` function was required to simulate the 
 `<gotoxy(int, int)>` function of the MS-Dos Box console.
 
-Credits go to the site: http://ntcoder.com/bab/2008/08/07/gotoxy-in-a-console-application-in-windows/
+Credits go to the site: (http://ntcoder.com/bab/2008/08/07/gotoxy-in-a-console-application-in-windows/)  
 for the `<gotoxy(const WORD, const WORD)>` UDF.
 
 The calculation of bmi and age based on a one-time user input was designed, which were absent 
