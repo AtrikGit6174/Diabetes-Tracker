@@ -1,4 +1,4 @@
-# Welcome to DIABETES TRACKER HELLO CHANGES
+# Welcome to DIABETES TRACKER
 
 Dated: 23.01.2021
 
