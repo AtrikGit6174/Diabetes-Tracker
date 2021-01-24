@@ -38,24 +38,24 @@ Two test cases for reference
 
 ### [Secondary Diabetes](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project/Images/Secondary%20Diabetes)
 
-<img src="Project/Images/Secondary%20Diabetes/1_Welcome%20Screen.PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/2_Personal%20Information.PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/3_Diagnosis%20Window.PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(1).PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(2).PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(3).PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/5_Diabetic.PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/6_Level%202%20Symptoms.PNG" width="300" height="360">  
-<img src="Project/Images/Secondary%20Diabetes/7_Secondary%20Diabetes.PNG" width="300" height="360">  
+<img src="Project/Images/Secondary%20Diabetes/1_Welcome%20Screen.PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/2_Personal%20Information.PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/3_Diagnosis%20Window.PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(1).PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(2).PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(3).PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/5_Diabetic.PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/6_Level%202%20Symptoms.PNG" width="300" height="360">
+<img src="Project/Images/Secondary%20Diabetes/7_Secondary%20Diabetes.PNG" width="300" height="360">
 
 ### [Not Diabetic](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project/Images/Not%20Diabetic)
 
-<img src="Project/Images/Not%20Diabetic/1_Welcome%20Screen.PNG" width="300" height="360">  
-<img src="Project/Images/Not%20Diabetic/2_Personal%20Information.PNG" width="300" height="360">  
-<img src="Project/Images/Not%20Diabetic/3_Diagnosis%20Window.PNG" width="300" height="360">  
-<img src="Project/Images/Not%20Diabetic/4_Level%201%20Symptoms%20(1).PNG" width="300" height="360">  
-<img src="Project/Images/Not%20Diabetic/5_Level%201%20Symptoms%20(2).PNG" width="300" height="360">  
-<img src="Project/Images/Not%20Diabetic/6_Not%20Diabetic.PNG" width="300" height="360">  
+<img src="Project/Images/Not%20Diabetic/1_Welcome%20Screen.PNG" width="300" height="360">
+<img src="Project/Images/Not%20Diabetic/2_Personal%20Information.PNG" width="300" height="360">
+<img src="Project/Images/Not%20Diabetic/3_Diagnosis%20Window.PNG" width="300" height="360">
+<img src="Project/Images/Not%20Diabetic/4_Level%201%20Symptoms%20(1).PNG" width="300" height="360">
+<img src="Project/Images/Not%20Diabetic/5_Level%201%20Symptoms%20(2).PNG" width="300" height="360">
+<img src="Project/Images/Not%20Diabetic/6_Not%20Diabetic.PNG" width="300" height="360">
 
 ## CREDITS
 1. _Mr Sudarshan Manna_ & _Ms. Tamali Sinha_, for teaching me my first language C++
