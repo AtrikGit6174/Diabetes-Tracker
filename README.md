@@ -14,26 +14,50 @@ User inputs are checked. The user is prompted to re-enter in case of invalid inp
 
 This is achieved by a class named diabetes and its member functions.
 
-### REPOSITORY DETAILS
-The repository contains
-1. DIABETES.cpp: The source code
-2. Orginal.txt: The original TurboC++ version
-3. bmi-chart.png: For bmi values (personal reference)
-4. Colour.png: For console colours (personal reference)
-5. Images folder: Sample outputs
+## REPOSITORY DETAILS
+The [Project directory](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project) contains
+1. [DIABETES.cpp](https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/DIABETES.CPP): The latest version
+2. [Images folder](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project/Images): Sample outputs
+3. [Orginal.txt](https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Original.txt): The original TurboC++ version
+4. [bmi-chart.png](https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/bmi-chart.png): For bmi values (personal reference)
+5. [Colour.png](https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Colour.PNG): For console colours (personal reference)
 
-### DISCLAIMER
+## DISCLAIMER
 The program symptoms and analysis are based on a general view
 and may not be accurate for every person.
 In case you require immediate attention, it is best to
 communicate with a professional medical practitioner.
 
-### SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS
 * Operating System: Windows 7 or above
 (Might be supported for lower versions)
 * Compiler: GCC 4 or above, or any other compiler supporting C++11 or above
 
-### CREDITS
+## IMAGES
+Two test cases for reference
+
+### [Secondary Diabetes](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project/Images/Secondary%20Diabetes)
+
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/1_Welcome%20Screen.PNG" alt="Welcome Screen" width="300" hight="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/2_Personal%20Information.PNG" slt="Personal Information" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/3_Diagnosis%20Window.PNG" alt="Diagnosis Window" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(1).PNG" alt="Level 1 Symptoms(1)" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(2).PNG" alt="Level 1 Symptoms(2)" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/4_Level%201%20Symptoms%20(3).PNG" alt="Level 1 Symptoms(2)" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/5_Diabetic.PNG" alt="Diabetic" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/6_Level%202%20Symptoms.PNG" alt="Level 2 Symptoms" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Secondary%20Diabetes/7_Secondary%20Diabetes.PNG" alt="Secondary Diabetes" width="300" height="360">
+
+### [Not Diabetic](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project/Images/Not%20Diabetic)
+
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/1_Welcome%20Screen.PNG" alt="Welcome Screen" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/2_Personal%20Information.PNG" alt="Personal Information" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/3_Diagnosis%20Window.PNG" alt="Diagnosis Window" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/4_Level%201%20Symptoms%20(1).PNG" alt="Level 1 Symptoms(1)" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/5_Level%201%20Symptoms%20(2).PNG" alt="Level 1 Symptoms(2)" width="300" height="360">
+<img src="https://github.com/AtrikGit6174/Diabetes-Tracker/blob/master/Project/Images/Not%20Diabetic/6_Not%20Diabetic.PNG" alt="Not Diabetic" width="300" height="360">
+
+## CREDITS
 1. _Mr Sudarshan Manna_ & _Ms. Tamali Sinha_, for teaching me my first language C++
 	and helping code this program.
 2. _Sayantani Das_, for her invaluable inputs on the symptoms and cases and 
@@ -45,8 +69,8 @@ communicate with a professional medical practitioner.
 	functions to enhance portability.
 5. _YOU_, the reader, for your time and patience and interest!
 
-### ADDITIONAL INFO ABOUT THE PROGRAM
-#### History
+## ADDITIONAL INFO ABOUT THE PROGRAM
+### History
 This program was done for my AISSCE 2019 Board Practical Submissions. 
 It was built from a skeletal code obtained from the Internet and
 modified by my school teachers and me.
@@ -61,7 +85,7 @@ to keep the code and program in compliance with latest standards and brought
 about many fundamental changes in the conditions and prompts, consulting with 
 my friend Sayantani Das, who is an upcoming MBBS.
 
-#### New & Noteworthy changes
+### New & Noteworthy changes
 The header files `<dos.h>`, `<graphics.h>` and associated functions are not supported 
 in other environments. 
 In view of this, functions like `<textcolor(_attr_)>` were removed and changed to modern 
