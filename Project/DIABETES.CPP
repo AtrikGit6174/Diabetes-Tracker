@@ -3,7 +3,7 @@
 #include <Windows.h>
 using namespace std;
 
-//UDF to implement gotoxy() func from TurboC++ IDE
+//UDF to implement gotoxy() function from TurboC++ IDE
 BOOL gotoxy(const WORD x, const WORD y) 
 {
     COORD xy;
