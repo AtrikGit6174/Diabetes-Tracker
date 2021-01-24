@@ -9,6 +9,7 @@ It intends to judge a whether a person is
 1. Diabetic or not
 2. If diabetic, then whether it is primary or secondary
 3. If primary, then whether it is insulin dependent or independent
+
 All these are done interactively based on user inputs.
 User inputs are checked. The user is prompted to re-enter in case of invalid input.
 
@@ -110,3 +111,4 @@ this code. Justified comments are inserted to help the interested developer.
 The `<disclaimer ()>` member function is added to remind the user that this program
 is no way as accurate or knowledgeable as a professional medical practitioner.
 
+************************************************************************************
