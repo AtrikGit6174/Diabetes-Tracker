@@ -1,6 +1,6 @@
 # Welcome to DIABETES TRACKER
 
-Launched at: (https://atrikgit6174.github.io/Diabetes-Tracker/)
+Launched at: [https://atrikgit6174.github.io/Diabetes-Tracker](https://atrikgit6174.github.io/Diabetes-Tracker)
 
 Dated: 23.01.2021
 
