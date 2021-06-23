@@ -17,7 +17,7 @@ This is achieved by a class named diabetes and its member functions.
 <REPOSITORY DETAILS>
 The repository contains
 1. DIABETES.cpp: The source code
-2. DIABATESDT.docx: The original TurboC++ version
+2. Original.txt: The original TurboC++ version
 3. bmi-chart.png: For bmi values (personal reference)
 4: Colour.png: For console colours (personal reference)
 5. Images folder: Sample outputs
@@ -62,28 +62,28 @@ about many fundamental changes in the conditions and prompts, consulting with
 my friend Sayantani Das, who is an upcoming MBBS.
 
 <New & Noteworthy changes>
-The header files dos.h, graphics.h and associated functions are not supported 
+The header files `<dos.h>`, `<graphics.h>` and associated functions are not supported 
 in other environments. 
-In view of this, functions like textcolor() were removed and changed to modern 
-versions which instruct the Windows console, namely system("color").
+In view of this, functions like `<textcolor(_attr_)>` were removed and changed to modern 
+versions which instruct the Windows console, namely `<system("color _attr_")>`. These attr of the `<system("color")>` can be found in the Colour.png file.
 
-Importantly, the UDF gotoxy function was required to simulate the 
-gotoxy() function of the MS-Dos Box console.
+Importantly, the UDF `<gotoxy(const WORD, const WORD)>` function was required to simulate the 
+`<gotoxy(int, int)>` function of the MS-Dos Box console.
 
-Credits go to the site: http://ntcoder.com/bab/2008/08/07/gotoxy-in-a-console-application-in-windows/
-for th gotoxy() UDF.
+Credits go to the site: 
+(http://ntcoder.com/bab/2008/08/07/gotoxy-in-a-console-application-in-windows/)  
+for the `<gotoxy(const WORD, const WORD)>` UDF.
 
 The calculation of bmi and age based on a one-time user input was designed, which were absent 
 in the original code.
 
 To enhance interactivity and ensure proper output, the option of re-entering the input 
-is prompted in case an user enters an invalid character.
+is prompted in case an user enters an invalid character using the functions `<checkInput (char, vector <char>)>` & `<ReEntry (char, int, vector <char>, int)>`.
 
 The function names are quite apt for any other developer to understand and build upon
 this code. Justified comments are inserted to help the interested developer.
 
-The disclaimer () member function is added to remind the user that this program
+The `<disclaimer ()>` member function is added to remind the user that this program
 is no way as accurate or knowledgeable as a professional medical practitioner.
-
 
 *************************************** T H A N K  Y O U ***************************************
