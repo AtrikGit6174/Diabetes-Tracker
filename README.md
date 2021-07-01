@@ -4,7 +4,7 @@ Launched at: [https://atrikgit6174.github.io/Diabetes-Tracker](https://atrikgit6
 
 Dated: 23.01.2021
 
-This project is brought to you by **Atrik Ray**.
+This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
 
 It intends to judge a whether a person is 
@@ -66,10 +66,11 @@ Two test cases for reference
 2. _Sayantani Das_, for her invaluable inputs on the symptoms and cases and 
 	for satisfying the curiosity of the Biology lover in me.
 3. _Meghna Dutta_, for being the second tester after me and helping me debug.
-	She is available @ [https://github.com/Meghna180401](https://github.com/Meghna180401)
+	* She is available @ [https://github.com/Meghna180401](https://github.com/Meghna180401)
 4. _Atrik Ray_, that's me, for patiently reading through many, many lines of 
 	un-indented skeletal code, making meaning out of it, and changing the
 	functions to enhance portability.
+	* Available @ [https://github.com/AtrikGit6174](https://github.com/AtrikGit6174)
 5. _YOU_, the reader, for your time and patience and interest!
 
 ## ADDITIONAL INFO ABOUT THE PROGRAM
