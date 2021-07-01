@@ -114,3 +114,5 @@ The `<disclaimer ()>` member function is added to remind the user that this prog
 is no way as accurate or knowledgeable as a professional medical practitioner.
 
 ************************************************************************************
+
+<script src="https://gist.github.com/AtrikGit6174/d4eb48faf7e8e12741d61dd7a3a30c50.js"></script>
