@@ -117,3 +117,7 @@ is no way as accurate or knowledgeable as a professional medical practitioner.
 ************************************************************************************
 
 <script src="https://gist.github.com/AtrikGit6174/d4eb48faf7e8e12741d61dd7a3a30c50.js"></script>
+
+
+&nbsp; &nbsp;
+<p align= "center"><a href="https://github.com/atrikgit6174"><img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px></a></p>
