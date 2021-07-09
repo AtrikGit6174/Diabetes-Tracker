@@ -73,6 +73,10 @@ Two test cases for reference
 	* Available @ [https://github.com/AtrikGit6174](https://github.com/AtrikGit6174)
 5. _YOU_, the reader, for your time and patience and interest!
 
+## PLANS TO EXPAND
+1. Features to save patient data in a text file to be retrieved and used for future inputs.
+2. Features to edit saved user data.
+
 ## ADDITIONAL INFO ABOUT THE PROGRAM
 ### History
 This program was done for my AISSCE 2019 Board Practical Submissions. 
