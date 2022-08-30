@@ -15,7 +15,7 @@ It intends to judge a whether a person is
 All these are done interactively based on user inputs.
 User inputs are checked. The user is prompted to re-enter in case of invalid input.
 
-This is achieved by a class named diabetes and its member functions.
+This is achieved by a class named `diabetes` and its member functions.
 
 ## REPOSITORY DETAILS
 The [Project directory](https://github.com/AtrikGit6174/Diabetes-Tracker/tree/master/Project) contains
